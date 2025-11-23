@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="streamlit" />
+          <option value="ollama" />
+          <option value="llama-index" />
+          <option value="llama-index-llms-ollama" />
+          <option value="pymongo" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
